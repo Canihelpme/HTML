@@ -1,6 +1,0 @@
-[0519/161430.224:ERROR:file_io_win.cc(179)] CreateFile C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
-[0519/161430.228:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
-[0519/161430.229:ERROR:file_io_win.cc(179)] CreateFile C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
-[0519/161526.437:ERROR:file_io_win.cc(179)] CreateFile C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
-[0519/161526.442:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: 파이프가 끝났습니다. (0x6D)
-[0519/161526.443:ERROR:file_io_win.cc(179)] CreateFile C:\Users\ASUS\AppData\Local\Google\Chrome\User Data\Crashpad\settings.dat: 액세스가 거부되었습니다. (0x5)
